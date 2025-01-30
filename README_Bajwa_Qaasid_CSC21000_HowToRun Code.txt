@@ -1,0 +1,1 @@
+This is MIPS source code, load the code onto MARS simulator, assemble, then run.
